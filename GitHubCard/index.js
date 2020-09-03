@@ -114,13 +114,6 @@ function gitHubCard( {avatar_url, name, login, location, html_url, followers, fo
 
   return mainCard
 }
-console.log(gitHubCard())
 
-/*
-  List of LS Instructors Github username's:
-    tetondan
-    dustinmyers
-    justsml
-    luishrd
-    bigknell
-*/
+
+
